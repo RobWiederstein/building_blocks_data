@@ -1,4 +1,4 @@
-## `provider_profiles
+## `provider_profiles`
 
 This dataset includes Indiana childcare providers.
 
