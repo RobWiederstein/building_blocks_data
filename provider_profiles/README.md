@@ -51,4 +51,5 @@ This dataset includes Indiana childcare providers.
 | 45  | ConsultantName | a   |
 
 **Source:** Indiana Department of Family and Social Services
+
 **Updated:** April 20, 2022
